@@ -12,11 +12,10 @@ from keras.layers.wrappers import TimeDistributed
 #import mooc_constants
 
 
-
-class ComprehensiveModel(object):
-    '''Class that contains all the methods for the training methods and architectures
+'''Class that contains all the methods for the training methods and architectures
     presented in the paper'''
-
+class ComprehensiveModel(object):
+    
     #max_len = 0
     #vocab_size = 0
 
